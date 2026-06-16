@@ -1,0 +1,10 @@
+{
+  "key": "INC-10284",
+  "summary": "KB file upload failed due to file size limit exceeding system threshold",
+  "description": "User attempted to upload an Excel file (~200KB) to the Knowledge Base, but the upload failed. After reducing file size to ~100KB and removing unnecessary columns, the upload succeeded.",
+  "status": "Resolved",
+  "created_date": "2026-06-10",
+  "resolved_date": "2026-06-11",
+  "priority": "Medium"
+}
+``
