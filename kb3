@@ -1,0 +1,7 @@
+ {
+    "key": "INC-11002",
+    "summary": "Access denied while uploading KB file",
+    "description": "User did not have sufficient permissions to upload KB content. Issue resolved after granting contributor role.",
+    "status": "Resolved",
+    "priority": "Medium"
+  }
