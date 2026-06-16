@@ -1,0 +1,8 @@
+
+  {
+    "key": "INC-11003",
+    "summary": "File size exceeds KB limit",
+    "description": "Upload failed when file size exceeded 150KB. File optimization resolved the issue.",
+    "status": "Resolved",
+    "priority": "Medium"
+  }
