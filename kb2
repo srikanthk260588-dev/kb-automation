@@ -1,0 +1,9 @@
+[
+  {
+    "key": "INC-11001",
+    "summary": "KB upload failed due to unsupported file format",
+    "description": "User tried uploading a .xlsb file which is not supported by KB system. Upload succeeded after converting to .xlsx format.",
+    "status": "Resolved",
+    "priority": "High"
+  }
+ 
